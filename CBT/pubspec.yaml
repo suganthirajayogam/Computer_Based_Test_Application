@@ -1,0 +1,57 @@
+name: computer_based_test
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.5
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.2+1
+  path: ^1.9.0
+  path_provider: ^2.1.3
+  image_picker: ^0.8.7+5
+  photo_view: ^0.14.0
+  video_player: ^2.8.1
+  video_player_win: ^2.3.7  # Add this line
+  dart_vlc: ^0.4.0
+
+
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  csv: ^5.0.2
+  file_picker: ^6.1.1
+  permission_handler: ^11.3.1
+  collection: ^1.17.2
+  intl: ^0.18.1
+  pdf: ^3.10.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/safety.jpeg
+    - assets/images/esd.jpg
+    - assets/images/smt.png
+    - assets/images/fa.png  
+    - assets/Emp_Images/
+    - assets/images/visteon_logo.png
+    # - assets/db/
+    # - assets/db/emp_db_login.db
+    - assets/images/visteon_exam_logo.png
+    - CBT/
+

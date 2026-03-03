@@ -1,5 +1,5 @@
 # Computer-Based-Test-CBT-Application🖥️
-This is a comprehensive computer-based test application built using Flutter. It's designed to streamline the process of conducting online tests, managing employee data, and generating reports. The application features separate login portals for multiple-choice questions (MCQ) and a vision-based test, an admin panel for content and user management.Flutter’s widget-based architecture and hot reloadfeature make it quick and easy to design a clean and responsive user interface, as seen in the result screen layout.
+This is a comprehensive computer-based test application built using Python , Flutter. It's designed to streamline the process of conducting online tests, managing employee data, and generating reports. The application features separate login portals for multiple-choice questions (MCQ) and a vision-based test, an admin panel for content and user management.Flutter’s widget-based architecture and hot reloadfeature make it quick and easy to design a clean and responsive user interface, as seen in the result screen layout.
 
 
 ## Features

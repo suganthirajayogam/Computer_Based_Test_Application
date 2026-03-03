@@ -3,7 +3,7 @@ This is a comprehensive computer-based test application built using Python , Flu
 
 
 ## Features
-🔹 **Dual Login:** A single landing page with options for a **MCQ** login and a **Vision Test** login.
+🔹 **Dual Login:** A single landing page with options for a **MCQ** login ,**Vision Test** login and **Certification** Login.
 🔹 **Secure Authentication:** Separate login systems for test takers and administrators.
 🔹 **Admin Panel:**
     * **Employee Database Management:** Add, edit, and view employee details.
